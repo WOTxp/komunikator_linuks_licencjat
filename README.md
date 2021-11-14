@@ -1,0 +1,1 @@
+# komunikator_linuks_licencjat
