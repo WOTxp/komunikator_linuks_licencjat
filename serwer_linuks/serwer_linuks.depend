@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636911160 source:/home/wotxp/Pulpit/serwer_linuks/main.cpp
+	<iostream>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<cstring>
+	<string>
+
